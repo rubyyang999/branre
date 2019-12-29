@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+<html>
+<head>
+  <title>Temple of Chinese Cupid in Tainan</title>
+  <link href="https://fonts.googleapis.com/css?family=Amatic+SC|Raleway:100,200,600,700" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
